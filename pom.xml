@@ -103,6 +103,13 @@
     <version>1.18.30</version>
     <scope>provided</scope>
 </dependency>
+
+<!-- Cloudinary for image upload -->
+<dependency>
+    <groupId>com.cloudinary</groupId>
+    <artifactId>cloudinary-http44</artifactId>
+    <version>1.36.0</version>
+</dependency>
 	</dependencies>
 
 	<build>
