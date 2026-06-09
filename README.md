@@ -445,3 +445,14 @@ Made with ❤️ for a fitter, healthier India 🇮🇳
 **SATTVA — Fitness For All • Unity Through Sport**
 
 </div>
+
+<img width="2838" height="1631" alt="Screenshot 2026-06-09 110214" src="https://github.com/user-attachments/assets/10dd8d0c-16aa-4a96-943a-601493c2d7b0" />
+<img width="2846" height="1632" alt="Screenshot 2026-06-09 110223" src="https://github.com/user-attachments/assets/1a41ce1e-559c-4a45-9cdd-4fd00cafee1a" />
+<img width="2837" height="1643" alt="Screenshot 2026-06-09 110240" src="https://github.com/user-attachments/assets/8ac6007a-196a-4b15-9dd1-51ca410817d7" />
+<img width="2848" height="1641" alt="Screenshot 2026-06-09 110250" src="https://github.com/user-attachments/assets/91fe3d62-b3f3-46a9-82c3-008ebdcf45f5" />
+<img width="2847" height="1643" alt="Screenshot 2026-06-09 110300" src="https://github.com/user-attachments/assets/ff6c1060-54cf-49c6-8423-dea54b662902" />
+<img width="2852" height="1645" alt="Screenshot 2026-06-09 110104" src="https://github.com/user-attachments/assets/58ec8c96-8fef-447a-bd58-d0215e988826" />
+<img width="2837" height="1631" alt="Screenshot 2026-06-09 110123" src="https://github.com/user-attachments/assets/670207a8-e21d-4f6a-bb21-800815c547b2" />
+<img width="2846" height="1627" alt="Screenshot 2026-06-09 110146" src="https://github.com/user-attachments/assets/fe60243a-6ecd-4e6d-8611-0ec1fd507470" />
+<img width="2745" height="1635" alt="Screenshot 2026-06-09 105954" src="https://github.com/user-attachments/assets/c6813b82-35cb-42c1-91f1-317f01c987c7" />
+<img width="2840" height="1626" alt="Screenshot 2026-06-09 110044" src="https://github.com/user-attachments/assets/443513d0-2a21-46ed-93e0-d254ba0e781e" />
