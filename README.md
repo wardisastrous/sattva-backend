@@ -49,9 +49,9 @@
 
 | Service | URL |
 |---|---|
-| 🖥️ Frontend (Website) | https://sattvango.com |
-| ⚙️ Backend API | https://api.sattvango.com/api |
-| 📊 API Health Check | https://api.sattvango.com/api/events |
+| 🖥️ Frontend (Website) | https://sattva-frontend-beige.vercel.app/ |
+| ⚙️ Backend API | https://dashboard.render.com/ |
+| 📊 API Health Check ✅
 
 ---
 
